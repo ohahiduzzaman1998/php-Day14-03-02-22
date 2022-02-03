@@ -26,6 +26,7 @@ class StringWordCount
         return [
             'word' => $this->word,
             'character' => $this->character,
+            'string' => $this->string,
             ];
     }
 
